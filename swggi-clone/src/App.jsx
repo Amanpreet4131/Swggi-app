@@ -7,7 +7,9 @@ function App() {
     <>
     <Header/>
     <Catagory/>
-    <Toprest></Toprest>
+    <Toprest/>
+    
+    
 
     </>
   );
