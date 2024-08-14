@@ -20,7 +20,10 @@ export default function Toprest() {
         <div className="flex items-center justify-between">
           <div className="text-[25px] items-bold">
             Top restaurant chains in Chandigarh
+            <br />
+            <br />
           </div>
+
           <div className="flex ">
             <div className=" flex justify-center items-center  w-[30px] h-[30px] bg-[#e2e2e7] rounded-full mx-2">
               <GoArrowLeft />
@@ -43,6 +46,7 @@ export default function Toprest() {
           
          
         </div>
+        <hr className="my-4 border-[2px]"/>
       </div>
     </>
   );

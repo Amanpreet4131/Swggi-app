@@ -61,8 +61,8 @@ export default function Header() {
 
    </div>
    <div>
-    <header className='p-[20px] shadow-xl '>
-        <div className="max-w-[1500px] mx-auto  flex items-center">
+    <header className='p-[20px] shadow-xl Sticky top-0 bg-white z-[9999]'>
+        <div className="max-w-[1500px] mx-auto  flex items-center  ">
         <div className="w-[100px]  ">
             <img src="Swiggy-emblem.png" alt=""></img>
         </div>
